@@ -10,5 +10,5 @@ public interface IReceivedRepository
     Task<Received> GetByIdAsync(int id);
     Task<List<Received>> GetAllAsync();
     Task UpdateAsync(int id, ReceivedDTO receivedDTO);
-    Task DeleteAsync(Received coffee);
+    Task DeleteAsync(int id);
 }

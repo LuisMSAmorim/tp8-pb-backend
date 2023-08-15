@@ -25,8 +25,13 @@ public sealed class ReceivedRepository : IReceivedRepository
         await _context.SaveChangesAsync();
     }
 
-    public async Task DeleteAsync(Received received)
+    public async Task DeleteAsync(int id)
     {
+        var received = await _context.Receiveds.FindAsync(id);
+
+        if (received == null)
+            throw new Exception("Received not found");
+
         _context.Receiveds.Remove(received);
         await _context.SaveChangesAsync();
     }
