@@ -354,6 +354,9 @@
       "FisioFinancials.Domain.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FisioFinancials.Infrastructure.Shared": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/FisioFinancials.Domain.Model.dll": {}
         },
@@ -373,6 +376,16 @@
         },
         "runtime": {
           "bin/placeholder/FisioFinancials.Infrastructure.Data.dll": {}
+        }
+      },
+      "FisioFinancials.Infrastructure.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FisioFinancials.Infrastructure.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FisioFinancials.Infrastructure.Shared.dll": {}
         }
       }
     }
@@ -1247,6 +1260,11 @@
       "type": "project",
       "path": "../FisioFinancials.Infrastructure.Data/FisioFinancials.Infrastructure.Data.csproj",
       "msbuildProject": "../FisioFinancials.Infrastructure.Data/FisioFinancials.Infrastructure.Data.csproj"
+    },
+    "FisioFinancials.Infrastructure.Shared/1.0.0": {
+      "type": "project",
+      "path": "../FisioFinancials.Infrastructure.Shared/FisioFinancials.Infrastructure.Shared.csproj",
+      "msbuildProject": "../FisioFinancials.Infrastructure.Shared/FisioFinancials.Infrastructure.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {

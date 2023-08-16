@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "FisioFinancials.Infrastructure.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FisioFinancials.Infrastructure.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FisioFinancials.Infrastructure.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FisioFinancials.Infrastructure.Shared/1.0.0": {
+      "type": "project",
+      "path": "../FisioFinancials.Infrastructure.Shared/FisioFinancials.Infrastructure.Shared.csproj",
+      "msbuildProject": "../FisioFinancials.Infrastructure.Shared/FisioFinancials.Infrastructure.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "FisioFinancials.Infrastructure.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Luís Miguel\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Shared\\FisioFinancials.Infrastructure.Shared.csproj": {
+              "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Shared\\FisioFinancials.Infrastructure.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -2,6 +2,7 @@
 using System.Data.Entity;
 using FisioFinancials.Domain.Model.DTOs;
 using FisioFinancials.Domain.Model.Entities;
+using FisioFinancials.Domain.Model.Exceptions;
 using FisioFinancials.Domain.Model.Interfaces.Repositories;
 using FisioFinancials.Infrastructure.Data.Context;
 
@@ -30,7 +31,7 @@ public sealed class ReceivedRepository : IReceivedRepository
         var received = await _context.Receiveds.FindAsync(id);
 
         if (received == null)
-            throw new Exception("Received not found");
+            throw new ResourceNotFoundException("Received not found");
 
         _context.Receiveds.Remove(received);
         await _context.SaveChangesAsync();
@@ -46,19 +47,9 @@ public sealed class ReceivedRepository : IReceivedRepository
         return await _context.Receiveds.FindAsync(id);
     }
 
-    public async Task UpdateAsync(int id, ReceivedDTO receivedDTO)
+    public async Task UpdateAsync(Received received)
     {
-        var received = await _context.Receiveds.FindAsync(id);
-
-        if (received == null)
-            throw new Exception("Received not found");
-
-        received.PatientName = receivedDTO.PatientName;
-        received.Value = receivedDTO.Value;
-        received.City = receivedDTO.City;
-        received.Local = receivedDTO.Local;
-        received.Date = receivedDTO.Date;
-
+        _context.Entry(received).State = EntityState.Modified;
         await _context.SaveChangesAsync();
     }
 }
