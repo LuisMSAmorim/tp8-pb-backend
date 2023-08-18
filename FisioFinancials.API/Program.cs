@@ -1,10 +1,14 @@
-using FisioFinancials.Infrastructure.Data.Context;
+using FisioFinancials.Infrastructure.IoC;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
+
+builder.Services.AddSwaggerGen();
+
+DependencyInjectorHelper.Register(builder.Services);
 
 var app = builder.Build();
 

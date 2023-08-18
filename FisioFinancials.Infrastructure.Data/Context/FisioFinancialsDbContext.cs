@@ -1,11 +1,11 @@
 ﻿using FisioFinancials.Domain.Model.Entities;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace FisioFinancials.Infrastructure.Data.Context;
 
 public class FisioFinancialsDbContext : DbContext
 {
-     public FisioFinancialsDbContext() : base("Server=(localdb)\\MSSQLLocalDB; Database=FisioFinancialsDB; Trusted_Connection=True") { }
+     public FisioFinancialsDbContext(DbContextOptions<FisioFinancialsDbContext> options) : base(options) { }
 
     public virtual DbSet<Received> Receiveds { get; set; }
 }

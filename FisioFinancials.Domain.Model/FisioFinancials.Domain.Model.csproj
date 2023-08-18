@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FisioFinancials.Infrastructure.Shared\FisioFinancials.Infrastructure.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

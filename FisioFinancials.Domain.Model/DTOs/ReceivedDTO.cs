@@ -14,4 +14,13 @@ public sealed class ReceivedDTO
     public string Local { get; private set; }
     [Required]
     public DateTime Date { get; private set; }
+
+    public void Deconstruct(out string PatientName, out Decimal Value, out string City, out string Local, out DateTime Date)
+    {
+        PatientName = this.PatientName;
+        Value = this.Value;
+        City = this.City;
+        Local = this.Local;
+        Date = this.Date;
+    }
 }

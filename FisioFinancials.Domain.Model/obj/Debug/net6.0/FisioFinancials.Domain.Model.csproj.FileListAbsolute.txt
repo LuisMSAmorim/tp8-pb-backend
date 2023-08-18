@@ -10,3 +10,6 @@ C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Dom
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Domain.Model\obj\Debug\net6.0\refint\FisioFinancials.Domain.Model.dll
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Domain.Model\obj\Debug\net6.0\FisioFinancials.Domain.Model.pdb
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Domain.Model\obj\Debug\net6.0\ref\FisioFinancials.Domain.Model.dll
+C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Domain.Model\bin\Debug\net6.0\FisioFinancials.Infrastructure.Shared.dll
+C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Domain.Model\bin\Debug\net6.0\FisioFinancials.Infrastructure.Shared.pdb
+C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Domain.Model\obj\Debug\net6.0\FisioFinancials.Domain.Model.csproj.CopyComplete

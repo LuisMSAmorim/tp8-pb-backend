@@ -15,4 +15,17 @@ public sealed class Received : BaseEntity
     public string Local { get; set; }
     [Required]
     public DateTime Date { get; set; }
+
+    public Received(string patientName, decimal value, string city, string local, DateTime date)
+    {
+        PatientName = patientName;
+        Value = value;
+        City = city;
+        Local = local;
+        Date = date;
+    }
+
+    public Received()
+    {
+    }
 }

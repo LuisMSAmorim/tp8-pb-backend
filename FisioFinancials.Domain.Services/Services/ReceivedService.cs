@@ -22,14 +22,9 @@ public sealed class ReceivedService : IReceivedService
 
     public async Task<ApiResponse<Received>> CreateAsync(ReceivedDTO receivedDTO)
     {
-        Received received = new()
-        {
-            City = receivedDTO.City,
-            Date = receivedDTO.Date,
-            Local = receivedDTO.Local,
-            PatientName = receivedDTO.PatientName,
-            Value = receivedDTO.Value
-        };
+        var (PatientName, Value, City, Local, Date) = receivedDTO;
+
+        Received received = new(PatientName, Value, City, Local, Date);
 
         await _repository.AddAsync(received);
 
@@ -73,10 +68,7 @@ public sealed class ReceivedService : IReceivedService
             return new ApiResponse<Received>(null, "Resource not found", HttpStatusCode.NotFound);
         }
 
-        received.Date = receivedDTO.Date;
-        received.Local = receivedDTO.Local;
-        received.PatientName = receivedDTO.PatientName;
-        received.Value = receivedDTO.Value;
+        (received.PatientName, received.Value, received.City, received.Local, received.Date) = receivedDTO;
 
         await _repository.UpdateAsync(received);
 

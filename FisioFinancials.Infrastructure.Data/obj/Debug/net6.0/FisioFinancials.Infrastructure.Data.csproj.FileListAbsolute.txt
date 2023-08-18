@@ -1,5 +1,4 @@
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Infrastructure.Data.deps.json
-C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Infrastructure.Data.runtimeconfig.json
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Infrastructure.Data.dll
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Infrastructure.Data.pdb
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Domain.Model.dll
@@ -13,8 +12,8 @@ C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Inf
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\FisioFinancials.Infrastructure.Data.dll
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\refint\FisioFinancials.Infrastructure.Data.dll
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\FisioFinancials.Infrastructure.Data.pdb
-C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\FisioFinancials.Infrastructure.Data.genruntimeconfig.cache
 C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\ref\FisioFinancials.Infrastructure.Data.dll
-C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\FisioFinancials.Infrastructure.Data.Migrations.CreateReceiveds.resources
-C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\FisioFinancials.Infrastructure.Data.csproj.GenerateResource.cache
-C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\FisioFinancials.Infrastructure.Data.Migrations.FixValueType.resources
+C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Infrastructure.Shared.dll
+C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Infrastructure.Shared.pdb
+C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\bin\Debug\net6.0\FisioFinancials.Infrastructure.Data.runtimeconfig.json
+C:\Users\Luís Miguel\Documents\FisioFinancials.Domain.Model\FisioFinancials.Infrastructure.Data\obj\Debug\net6.0\FisioFinancials.Infrastructure.Data.genruntimeconfig.cache

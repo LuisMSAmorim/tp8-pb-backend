@@ -1,10 +1,10 @@
 ﻿
-using System.Data.Entity;
 using FisioFinancials.Domain.Model.DTOs;
 using FisioFinancials.Domain.Model.Entities;
 using FisioFinancials.Domain.Model.Exceptions;
 using FisioFinancials.Domain.Model.Interfaces.Repositories;
 using FisioFinancials.Infrastructure.Data.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace FisioFinancials.Infrastructure.Data.Repositories;
 
