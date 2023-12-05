@@ -1,6 +1,4 @@
-﻿
-using FisioFinancials.Domain.Model.DTOs;
-using FisioFinancials.Domain.Model.Entities;
+﻿using FisioFinancials.Domain.Model.Entities;
 using FisioFinancials.Domain.Model.Exceptions;
 using FisioFinancials.Domain.Model.Interfaces.Repositories;
 using FisioFinancials.Infrastructure.Data.Context;
@@ -20,10 +18,11 @@ public sealed class ReceivedRepository : IReceivedRepository
         _context = context;
     }
 
-    public async Task AddAsync(Received received)
+    public async Task<Received> AddAsync(Received received)
     {
         _context.Receiveds.Add(received);
         await _context.SaveChangesAsync();
+        return received;
     }
 
     public async Task DeleteAsync(int id)
@@ -47,9 +46,10 @@ public sealed class ReceivedRepository : IReceivedRepository
         return await _context.Receiveds.FindAsync(id);
     }
 
-    public async Task UpdateAsync(Received received)
+    public async Task<Received> UpdateAsync(Received received)
     {
         _context.Entry(received).State = EntityState.Modified;
         await _context.SaveChangesAsync();
+        return received;
     }
 }
