@@ -2428,20 +2428,6 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "FisioFinancials.ClassLoader/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FisioFinancials.Domain.Model": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "7.0.10"
-        },
-        "compile": {
-          "bin/placeholder/FisioFinancials.ClassLoader.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FisioFinancials.ClassLoader.dll": {}
-        }
-      },
       "FisioFinancials.Domain.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -7755,11 +7741,6 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "FisioFinancials.ClassLoader/1.0.0": {
-      "type": "project",
-      "path": "../FisioFinancials.ClassLoader/FisioFinancials.ClassLoader.csproj",
-      "msbuildProject": "../FisioFinancials.ClassLoader/FisioFinancials.ClassLoader.csproj"
-    },
     "FisioFinancials.Domain.Model/1.0.0": {
       "type": "project",
       "path": "../FisioFinancials.Domain.Model/FisioFinancials.Domain.Model.csproj",
@@ -7783,7 +7764,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "FisioFinancials.ClassLoader >= 1.0.0",
+      "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.ClassLoader\\FisioFinancials.ClassLoader.csproj",
       "FisioFinancials.Domain.Model >= 1.0.0",
       "FisioFinancials.Infrastructure.Data >= 1.0.0",
       "FisioFinancials.Infrastructure.IoC >= 1.0.0",
@@ -7802,11 +7783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.API\\FisioFinancials.API.csproj",
+      "projectUniqueName": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.API\\FisioFinancials.API.csproj",
       "projectName": "FisioFinancials.API",
-      "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.API\\FisioFinancials.API.csproj",
+      "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.API\\FisioFinancials.API.csproj",
       "packagesPath": "C:\\Users\\Luís Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.API\\obj\\",
+      "outputPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7827,17 +7808,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.ClassLoader\\FisioFinancials.ClassLoader.csproj": {
-              "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.ClassLoader\\FisioFinancials.ClassLoader.csproj"
+            "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.ClassLoader\\FisioFinancials.ClassLoader.csproj": {
+              "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.ClassLoader\\FisioFinancials.ClassLoader.csproj"
             },
-            "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
-              "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
+            "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
+              "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
             },
-            "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj": {
-              "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj"
+            "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj"
             },
-            "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj": {
-              "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj"
+            "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj": {
+              "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj"
             }
           }
         }
@@ -7903,5 +7884,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.ClassLoader\\FisioFinancials.ClassLoader.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.ClassLoader\\FisioFinancials.ClassLoader.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

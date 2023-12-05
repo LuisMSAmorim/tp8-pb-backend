@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj": {}
+    "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
+    "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
         "projectName": "FisioFinancials.Domain.Model",
-        "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
+        "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
         "packagesPath": "C:\\Users\\Luís Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\obj\\",
+        "outputPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj": {
+    "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj",
         "projectName": "FisioFinancials.Domain.Services",
-        "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj",
+        "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj",
         "packagesPath": "C:\\Users\\Luís Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\obj\\",
+        "outputPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
-                "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
+              "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
+                "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj": {
+    "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj",
         "projectName": "FisioFinancials.Infrastructure.Data",
-        "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj",
+        "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\Luís Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\obj\\",
+        "outputPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
-                "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
+              "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
+                "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj": {
+    "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj",
         "projectName": "FisioFinancials.Infrastructure.IoC",
-        "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj",
+        "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\FisioFinancials.Infrastructure.IoC.csproj",
         "packagesPath": "C:\\Users\\Luís Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\obj\\",
+        "outputPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -243,14 +243,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
-                "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
+              "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
+                "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj"
               },
-              "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj": {
-                "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj"
+              "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Services\\FisioFinancials.Domain.Services.csproj"
               },
-              "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj"
+              "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Infrastructure.Data\\FisioFinancials.Infrastructure.Data.csproj"
               }
             }
           }

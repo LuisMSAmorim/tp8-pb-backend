@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {}
+    "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
+    "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
         "projectName": "FisioFinancials.Domain.Model",
-        "projectPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
+        "projectPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model.csproj",
         "packagesPath": "C:\\Users\\Luís Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luís Miguel\\Documents\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\obj\\",
+        "outputPath": "C:\\Users\\Luís Miguel\\Music\\LUIS_MIGUEL_SILVA_AMORIM_TP8_PB\\FisioFinancials.Domain.Model\\FisioFinancials.Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
